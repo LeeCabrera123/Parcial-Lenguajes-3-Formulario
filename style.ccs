@@ -1,0 +1,30 @@
+
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+form{
+    width: 500px;
+    margin: auto;
+}
+
+input{
+    width: 100%;
+    padding: 12px;
+}
+
+#Errornombre,
+#Errordni,
+#Errorfecha{
+    color:rgba(255, 0, 0, 0.918);
+}
+
+#mensaje{
+    font-weight: bold;
+}
+
+button{
+    padding: 13px;
+    margin: 5px;
+}
